@@ -1,0 +1,35 @@
+.item {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  border-top: 1px solid var(--color-main);
+  margin-top: 16px;
+  padding-top: 16px;
+}
+
+.name {
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.button {
+  color: var(--color-white);
+  background-color: transparent;
+  border: 1px solid var(--color-main);
+  border-radius: 5px;
+  margin: 0 2px;
+  padding: 8px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.img {
+  display: block;
+}

@@ -1,0 +1,18 @@
+:root {
+  --color-main: #212226;
+  --color-white: #fff;
+  --color-hover: #a0c02d;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  color: var(--color-main);
+  background-color: var(--color-main);
+  padding-top: 32px;
+}
