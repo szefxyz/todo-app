@@ -1,16 +1,20 @@
 ## TODO APP
 
 This is a simple To-Do List application with features like adding new tasks and deleting tasks.
-It provides a user-friendly interface to manage your daily tasks efficiently.
+<br/>It provides a user-friendly interface to manage your daily tasks efficiently.
 
 ### Screenshot
 
-![](./screenshots//screenshot_desktop.png)
+|          Web View          |        Mobile View        |
+| :------------------------: | :-----------------------: |
+| ![](./screenshots//screenshot_desktop.png) | ![](./screenshots//screenshot_mobile.png) |
 
 ### Built with
-
-![My Skills](https://skillicons.dev/icons?i=react,html,css,js)
+- React
+- HTML
+- CSS
+- JavaScript
 
 ### Links
-
-- Live Site: https://project-react-todo-app.netlify.app
+- Code URL: [Codes](https://github.com/szefxyz/todo-app)
+- Live Site: [Live View](https://project-react-todo-app.netlify.app)
