@@ -6,8 +6,6 @@ It provides a user-friendly interface to manage your daily tasks efficiently.
 ### Screenshot
 
 ![](./screenshots//screenshot_desktop.png)
-![](./screenshots//screenshot_desktop_openInput.png)
-![](./screenshots//screenshot_mobile.png)
 
 ### Built with
 
